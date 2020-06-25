@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'appserv-webapp-python-django-app1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fb9c627bd3e94221b8672a447fac1c7a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_13e0c01395ec470fbb690d168c0ebacd }}
