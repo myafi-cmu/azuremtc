@@ -25,7 +25,7 @@ SECRET_KEY = 'tj@xy#yaib)n(cjwu)23h9i&&qzf))q7m$79f4(mm0eez*hm21'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['appserv-webapp-python-django-app1.azurewebsites.net']
 
 
 # Application definition
